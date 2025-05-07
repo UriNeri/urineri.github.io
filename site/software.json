@@ -1,5 +1,38 @@
 [
   {
+    "name": "Gen2Mat",
+    "description": "Gene sharing matrix using cd-git",
+    "url": "https://github.com/UriNeri/Gen2Mat",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-05-07T01:55:23Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "import_mover",
+    "description": "\"Refactoring\" tool that moves Python imports into the functions where they are used.",
+    "url": "https://github.com/UriNeri/import_mover",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-05-07T01:53:23Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "bbmapy",
+    "description": "A Python wrapper for BBTools. Current version of bbmapy is v39.20.",
+    "url": "https://github.com/UriNeri/bbmapy",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-05-07T01:53:00Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
     "name": "doi2bib",
     "description": "vibe coded chrome extension ",
     "url": "https://github.com/UriNeri/doi2bib",
@@ -22,17 +55,6 @@
     "source": "github"
   },
   {
-    "name": "bbmapy",
-    "description": "",
-    "url": "https://github.com/UriNeri/bbmapy",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "updated_at": "2025-04-09T19:36:57Z",
-    "topics": [],
-    "source": "github"
-  },
-  {
     "name": "misc",
     "description": "",
     "url": "https://github.com/UriNeri/misc",
@@ -51,17 +73,6 @@
     "stars": 0,
     "forks": 0,
     "updated_at": "2025-04-02T01:22:38Z",
-    "topics": [],
-    "source": "github"
-  },
-  {
-    "name": "import_mover",
-    "description": "",
-    "url": "https://github.com/UriNeri/import_mover",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "updated_at": "2025-04-01T22:40:38Z",
     "topics": [],
     "source": "github"
   },
@@ -110,15 +121,15 @@
     "source": "github"
   },
   {
-    "name": "Gen2Mat",
-    "description": "",
-    "url": "https://github.com/UriNeri/Gen2Mat",
-    "language": "Shell",
-    "stars": 0,
+    "name": "Main",
+    "description": "RNA virus analysis toolkit, including a variety of commands and wrappers for external tools (from raw read processing to genome annotation).",
+    "url": "https://code.jgi.doe.gov/rolypoly/rolypoly",
+    "language": "Unknown",
+    "stars": 1,
     "forks": 0,
-    "updated_at": "2020-09-02T07:57:26Z",
+    "updated_at": "2025-05-07T00:50:57.670Z",
     "topics": [],
-    "source": "github"
+    "source": "gitlab"
   },
   {
     "name": "Spacer Matching Bench",
@@ -128,17 +139,6 @@
     "stars": 1,
     "forks": 0,
     "updated_at": "2025-05-06T21:08:11.275Z",
-    "topics": [],
-    "source": "gitlab"
-  },
-  {
-    "name": "Main",
-    "description": "",
-    "url": "https://code.jgi.doe.gov/rolypoly/rolypoly",
-    "language": "Unknown",
-    "stars": 1,
-    "forks": 0,
-    "updated_at": "2025-04-19T00:18:25.124Z",
     "topics": [],
     "source": "gitlab"
   },
