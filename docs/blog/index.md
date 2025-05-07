@@ -1,0 +1,7 @@
+# Blog
+
+
+---
+
+[BLOG_CONTENT]
+
