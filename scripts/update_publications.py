@@ -428,16 +428,18 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "-b", "--bibtex",
         help="BibTeX file to read and update publications from",
-        default="docs/my_pubs.bibtex"
+        default="docs/my_pubs.bibtexa"
     )
     parser.add_argument(
         "-a", "--author",
+        # default="Antônio Camargo",
         default="Uri Neri",
         help="Author name to search for"
     )
     parser.add_argument(
         "-o", "--orcid",
         help="ORCID ID to supplement publications with",
+        # default="0000-0003-3913-2484" Antônio Pedro Camargo
         default="0000-0003-0894-2484"
     )
     parser.add_argument(
