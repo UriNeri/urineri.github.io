@@ -80,6 +80,10 @@ markdown_extensions:
 plugins:
   - search
   - tags
+  - redirects:
+      redirect_maps:
+        'rdrp_summit_location_redirect.md': 'https://maps.app.goo.gl/HwHsmqYUBCZRK57w6'
+
   # - blog:
   #     blog_dir: blog
   #     post_url_format: "{slug}"

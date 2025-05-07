@@ -9,7 +9,7 @@ dependencies = [
 "polars>=1.29.0,<2",
 "habanero>=2.2.0,<3",
 "beautifulsoup4>=4.13.4,<5",
-"bibtexparser>=1.4.3,<2"]
+"bibtexparser>=1.4.3,<2", "mkdocs-redirects>=1.2.2,<2"]
 
 [tool.pixi.project]
 name = "urineri-github-io"
