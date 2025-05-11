@@ -82,7 +82,7 @@ plugins:
   - tags
   - redirects:
       redirect_maps:
-        'rdrp_summit_location_redirect.md': 'https://maps.app.goo.gl/HwHsmqYUBCZRK57w6'
+        'rdrp_summit_location_redirect.md': 'https://maps.app.goo.gl/rhXpUFj75RE316fE9?g_st=aw'
 
   # - blog:
   #     blog_dir: blog
