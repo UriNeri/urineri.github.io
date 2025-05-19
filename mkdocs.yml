@@ -58,7 +58,7 @@ nav:
   - About: index.md
   - Publications: publications.md
   - Software: software.md
-  # - Blog: blog/index.md
+  - Blog: blog/index.md
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -80,13 +80,9 @@ markdown_extensions:
 plugins:
   - search
   - tags
-  - redirects:
-      redirect_maps:
-        'rdrp_summit_location_redirect.md': 'https://maps.app.goo.gl/rhXpUFj75RE316fE9?g_st=aw'
-
-  # - blog:
-  #     blog_dir: blog
-  #     post_url_format: "{slug}"
-  #     post_excerpt: required
-  #     archive: true
-  #     categories: true 
+  - blog:
+      blog_dir: blog
+      post_url_format: "{slug}"
+      post_excerpt: required
+      archive: true
+      categories: true 
