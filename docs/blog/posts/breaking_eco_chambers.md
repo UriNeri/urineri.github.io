@@ -44,12 +44,14 @@ And less obvious ones: most of us have existing obligations and research to do, 
 
 But we got over the hurdles. We got some funding. We got people talking. New collaborations were formed, ideas were shared, and some good science was done (and some beers were had). It is probably not enough, but it was a start. That was 2 years ago, and I have amazing memories of the event and the people in it and those who co-organised it. They all did an incredible job, and I'm proud to be part of the community they created.  
 
-![The first RdRp Summit](../../assets/rdrp_summit_1_Collage.jpg){ align=center width=150% }
+![The first RdRp Summit](../../assets/rdrp_summit_1_Collage.jpg)
 
 I think the effect had quantifiable effects. In my PhD I looked at co-authorship and co-citation networks, and some obvious clusters of collaboration emerge. I considered these to be "eco-chambers" - groups of people who are connected to each other, and use a similar chain of logic and methods. The hubs in the network revolved around the PIs, with a lot of alums and postdocs around them, but not much (or any) connecting these hubs. I'm intentionally not placing this network plot here - it's in my thesis, if you want go find it. I don't see this as any specific fault of anyone. I do know that the summit helped break these chambers, and I'm proud of that. Tying it back to the "Scientific Method" and Kuhn, I now think the event and the community formed were more of a disruptive step in this field any specific study or paper. I'm obviously not objective, and I'm probaly a bit naive and over-extrapolating the effects of the it.   
-We just held the second summit, and it was great. It's also amazing to see the personal and professional growth of some community members, along how new members have joined the community and stepped up to help. I was less involved in the organisation this time, credit for that should go the entire organising committee. I'm already looking forward to the next time, or to whatever shape and form the community takes on - it might be less of a one-time-big-event, or have additional smaller-more hands on events [personal preference, we'll see], and there are some initatives for more rolling projects, like routine journal clubs.
+We just held the second summit, and it was great. It's also amazing to see the personal and professional growth of some community members, along how new members have joined the community and stepped up to help. I was less involved in the organisation this time, credit for that should go the entire organising committee (here is the subset of in-person committee members):  
 
+![The second RdRp Summit committee](https://media.licdn.com/dms/image/v2/D4E22AQHxXWH4cL_1Hw/feedshare-shrink_800/B4EZbjqKpPHMAk-/0/1747576206064?e=2147483647&v=beta&t=sca06qViiV-9CbXAL0FnJqbuHss03BCcxemLXU_Npec)  
 
+I'm already looking forward to the next time, or to whatever shape and form the community takes on - it might be less of a one-time-big-event, or have additional smaller-more hands on events [personal preference, we'll see], and there are some initatives for more rolling projects, like routine journal clubs.
 
-
-
+Anyway, here's the (on-site) group photo from the second summit. I'm not in it - I was sure we forgot someone and went searching for only to become that person
+![The second RdRp Summit](https://media.licdn.com/dms/image/v2/D4E22AQEwnVVgPYRZYg/feedshare-shrink_800/B4EZbjqKqJHIAg-/0/1747576205967?e=2147483647&v=beta&t=Dya5wOVMoSBxh2YVhmpDP5io_YYahOeaXjp32VcucOw)  
