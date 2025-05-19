@@ -45,13 +45,13 @@ extra:
       link: https://github.com/urineri
       name: Uri Neri on GitHub
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/uri_neri
+      link: https://x.com/UriNeri2
       name: Uri Neri on Twitter
     - icon: fontawesome/brands/google
-      link: https://scholar.google.com/citations?user=YOUR_ID
+      link: https://scholar.google.com/citations?user=VComRgYAAAAJ
       name: Uri Neri on Google Scholar
     - icon: simple/bluesky
-      link: https://bsky.app/profile/YOUR_HANDLE.bsky.social
+      link: https://bsky.app/profile/urineri.bsky.social
       name: Uri Neri on Bluesky
 
 nav:
