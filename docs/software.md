@@ -17,7 +17,7 @@
         <span>⭐ 0</span>
         <span>📅 2025-05-07</span>
     </div>
-    <p>Gene sharing matrix using cd-git</p>
+    <p>Gene sharing matrix using cd-hit</p>
 </div>
 
 
@@ -39,7 +39,7 @@
         <span>⭐ 0</span>
         <span>📅 2025-05-07</span>
     </div>
-    <p>A Python wrapper for BBTools. Current version of bbmapy is v39.20.</p>
+    <p>A Python wrapper for BBTools</p>
 </div>
 
 
@@ -72,7 +72,7 @@
         <span>⭐ 0</span>
         <span>📅 2025-04-02</span>
     </div>
-    <p>No description available.</p>
+    <p>Alias file and random scripts</p>
 </div>
 
 
@@ -105,7 +105,7 @@
         <span>⭐ 0</span>
         <span>📅 2025-01-31</span>
     </div>
-    <p>quick and dirty alternative to seff (slurm job efficiency)</p>
+    <p>Quick and dirty alternative to seff (slurm job efficiency)</p>
 </div>
 
 
@@ -131,10 +131,10 @@
 </div>
 
 
-<div class="repo-card" data-stars="1" data-language="Unknown" data-date="2025-05-07T00:50:57.670Z">
-    <h3><a href="https://code.jgi.doe.gov/rolypoly/rolypoly">Main</a></h3>
+<div class="repo-card" data-stars="1" data-language="Python" data-date="2025-05-07T00:50:57.670Z">
+    <h3><a href="https://code.jgi.doe.gov/rolypoly/rolypoly">RolyPoly</a></h3>
     <div class="repo-meta">
-        <span>📦 Unknown</span>
+        <span>🐍 Python </span>
         <span>⭐ 1</span>
         <span>📅 2025-05-07</span>
     </div>
@@ -142,14 +142,14 @@
 </div>
 
 
-<div class="repo-card" data-stars="1" data-language="Unknown" data-date="2025-05-06T21:08:11.275Z">
+<div class="repo-card" data-stars="1" data-language="Python" data-date="2025-05-06T21:08:11.275Z">
     <h3><a href="https://code.jgi.doe.gov/spacersdb/spacer_matching_bench">Spacer Matching Bench</a></h3>
     <div class="repo-meta">
-        <span>📦 Unknown</span>
+        <span>🐍 Python, 🦀 Rust</span>
         <span>⭐ 1</span>
         <span>📅 2025-05-06</span>
     </div>
-    <p>No description available.</p>
+    <p>A tool to benchmark spacer matching tools.</p>
 </div>
 
 
@@ -171,7 +171,7 @@
         <span>⭐ 1</span>
         <span>📅 2022-10-17</span>
     </div>
-    <p>No description available.</p>
+    <p>My personal website</p>
 </div>
 
 

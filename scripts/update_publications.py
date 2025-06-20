@@ -34,6 +34,7 @@ def get_orcid_works(orcid_id: str) -> List[Dict]:
                 'doi': next((ei['external-id-value'] for ei in work_summary.get('external-ids', {}).get('external-id', [])
                            if ei['external-id-type'] == 'doi'), None),
                 'journal': '',  # ORCID doesn't always provide journal info in the summary
+                'author': [],  # ORCID doesn't always provide author info in the summary
                 'source': 'orcid'
             }
             print(f"\nFound ORCID publication: {pub_data['title'][:100]}")
