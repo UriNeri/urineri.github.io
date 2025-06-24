@@ -1,0 +1,147 @@
+/* Make the top navigation banner larger */
+.md-header {
+    height: 3.2rem;
+}
+
+.md-header__inner {
+    height: 3.2rem;
+    padding: 0.6rem;
+}
+
+.md-header__button {
+    padding: 0.6rem;
+}
+
+.md-header__title {
+    font-size: 1.4rem;
+}
+
+/* Hide table of contents for home page */
+.homepage .md-sidebar--secondary {
+    display: none;
+}
+
+/* Hide the side navigation for the current page when it's in the top nav */
+.md-nav__item .md-nav__link--active {
+    display: none;
+}
+
+/* Adjust navigation tabs */
+.md-tabs {
+    background-color: var(--md-primary-fg-color--dark);
+}
+
+.md-tabs__link {
+    font-size: 1rem;
+    margin-top: 0.4rem;
+}
+
+/* Style social buttons */
+.md-button {
+    text-transform: none;
+    font-weight: 400;
+    font-size: 0.8rem;
+    padding: 0.3rem 0.6rem;
+}
+
+.md-button--primary {
+    background-color: var(--md-primary-fg-color);
+    border-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+}
+
+.md-button--primary:hover {
+    background-color: var(--md-primary-fg-color--dark);
+    border-color: var(--md-primary-fg-color--dark);
+}
+
+/* Profile image */
+.profile-header img {
+    width: 350px;
+    height: auto;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+}
+
+/* Software page styles */
+.sort-buttons {
+    margin: 1rem 0;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.sort-button {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--md-primary-fg-color);
+    border-radius: 4px;
+    background: transparent;
+    color: var(--md-primary-fg-color);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.sort-button:hover {
+    background: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+}
+
+.sort-button.active {
+    background: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+}
+
+.repo-card {
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 4px;
+    padding: 1rem;
+    margin: 1rem 0;
+    transition: all 0.2s ease;
+}
+
+.repo-card:hover {
+    border-color: var(--md-primary-fg-color);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.repo-card h3 {
+    margin: 0 0 0.5rem 0;
+}
+
+.repo-meta {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.9rem;
+    color: var(--md-default-fg-color--light);
+}
+
+.repo-topics {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+}
+
+.repo-topic {
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    background: var(--md-code-bg-color);
+    border-radius: 4px;
+}
+
+.social-banner {
+    clear: both;
+    margin: 1rem 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    flex-wrap: nowrap;
+}
+
+.social-banner .md-button {
+    margin: 0;
+    font-size: 0.7rem;
+    padding: 0.25rem 0.5rem;
+} 

@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Gen2Mat",
+    "description": "Gene sharing matrix using cd-git",
+    "url": "https://github.com/UriNeri/Gen2Mat",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-05-07T01:55:23Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "import_mover",
+    "description": "\"Refactoring\" tool that moves Python imports into the functions where they are used.",
+    "url": "https://github.com/UriNeri/import_mover",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-05-07T01:53:23Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "bbmapy",
+    "description": "A Python wrapper for BBTools. Current version of bbmapy is v39.20.",
+    "url": "https://github.com/UriNeri/bbmapy",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-05-07T01:53:00Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "doi2bib",
+    "description": "vibe coded chrome extension ",
+    "url": "https://github.com/UriNeri/doi2bib",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-04-30T18:13:57Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "bookmark-organizer",
+    "description": "Coding exercise to increase  productivity ",
+    "url": "https://github.com/UriNeri/bookmark-organizer",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-04-10T18:00:42Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "misc",
+    "description": "",
+    "url": "https://github.com/UriNeri/misc",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-04-02T22:05:25Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "whattodo",
+    "description": "Locate all TODOs from a given directory",
+    "url": "https://github.com/UriNeri/whattodo",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-04-02T01:22:38Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "splitit",
+    "description": "Streamlit-based web app to track expenses across people using OCR on receipts",
+    "url": "https://github.com/UriNeri/splitit",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-03-23T22:06:52Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "pyseff",
+    "description": "quick and dirty alternative to seff (slurm job efficiency)",
+    "url": "https://github.com/UriNeri/pyseff",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-01-31T18:54:02Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "NeriMisc",
+    "description": "Neri's Miscellaneous R helper functions",
+    "url": "https://github.com/UriNeri/NeriMisc",
+    "language": "R",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2022-04-14T05:21:42Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "AresDown4",
+    "description": "Noise activated video capture (sort of)",
+    "url": "https://github.com/UriNeri/AresDown4",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2020-12-31T09:54:31Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "Main",
+    "description": "RNA virus analysis toolkit, including a variety of commands and wrappers for external tools (from raw read processing to genome annotation).",
+    "url": "https://code.jgi.doe.gov/rolypoly/rolypoly",
+    "language": "Unknown",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2025-05-07T00:50:57.670Z",
+    "topics": [],
+    "source": "gitlab"
+  },
+  {
+    "name": "Spacer Matching Bench",
+    "description": "",
+    "url": "https://code.jgi.doe.gov/spacersdb/spacer_matching_bench",
+    "language": "Unknown",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2025-05-06T21:08:11.275Z",
+    "topics": [],
+    "source": "gitlab"
+  },
+  {
+    "name": "LSV",
+    "description": "Scripts and code used in the analyses of Haloferax volcanii 48N lemon-shaped virus",
+    "url": "https://github.com/UriNeri/LSV",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2024-02-13T18:46:05Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "urineri.github.io",
+    "description": "",
+    "url": "https://github.com/UriNeri/urineri.github.io",
+    "language": "HTML",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2022-10-17T12:53:21Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "ColabScan",
+    "description": "Making it easier for non-bioinfos to search their data for RdRps",
+    "url": "https://github.com/UriNeri/ColabScan",
+    "language": "Jupyter Notebook",
+    "stars": 2,
+    "forks": 1,
+    "updated_at": "2025-01-21T20:48:40Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "RVMT",
+    "description": "Code, scripts, some logs and general misc. from to the RNA viruses in MetaTranscriptome discovery project.",
+    "url": "https://github.com/UriNeri/RVMT",
+    "language": "R",
+    "stars": 10,
+    "forks": 4,
+    "updated_at": "2025-04-03T17:18:13Z",
+    "topics": [],
+    "source": "github"
+  }
+]

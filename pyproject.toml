@@ -1,0 +1,30 @@
+[project]
+name = "urineri-github-io"
+version = "0.1.0"
+description = "mkdocs landing page"
+dependencies = [
+"mkdocs>=1.6.1,<2",
+"mkdocs-material>=9.6.12,<10",
+"requests>=2.31.0",
+"polars>=1.29.0,<2",
+"habanero>=2.2.0,<3",
+"beautifulsoup4>=4.13.4,<5",
+"bibtexparser>=1.4.3,<2", "mkdocs-redirects>=1.2.2,<2"]
+
+[tool.pixi.project]
+name = "urineri-github-io"
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+
+[tool.pixi.tasks]
+build-docs = {cmd= "mkdocs build", description = "Build the MkDocs site"}
+serve-docs = {cmd= "mkdocs serve", description = "Serve the MkDocs site"}
+update-pubs = {cmd= "python scripts/update_publications.py --bibtex docs/my_pubs.bibtex", description = "Update publications from various sources"}
+update-software = {cmd= "python scripts/update_software.py", description = "Update software page from GitHub and GitLab"}
+update-all = { depends-on = ["update-pubs", "update-software"] }
+
+
+[tool.pixi.dependencies]
+python = ">=3.12.3,<3.13"
+
