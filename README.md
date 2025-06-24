@@ -5,23 +5,18 @@
 pixi install
 ```
 
-2. Serve the site locally:
+2. build the site locally:
 ```bash
-pixi serve
+pixi run build-docs
+pixi run serve-docs
 ```
 
 open `http://127.0.0.1:8000`
 
-## Building and Deployment
+## Deployment
 
-To build the site:
 ```bash
-pixi build
+git add .
+git commit -m "update"
+git push
 ```
-
-## Deploying to GitHub Pages
-
-To deploy to GitHub Pages:
-```bash
-mkdocs gh-deploy
-``` 
