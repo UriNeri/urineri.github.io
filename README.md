@@ -10,7 +10,6 @@ pixi install
 pixi run build-docs
 pixi run serve-docs
 ```
-
 open `http://127.0.0.1:8000`
 
 ## Deployment
