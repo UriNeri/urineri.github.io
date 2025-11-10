@@ -37,3 +37,10 @@
 - **2024**: Associate Data Scientist, Viral Genomics Group, Department of Energy Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
 - **2017 – 2018**: Research Assistant, Prof. Uri Gophna's lab
 - **2013 – 2015**: Research Assistant, Prof. Ehud Gazit's research group
+
+## [Publications](https://urineri.github.io/publications/)
+See [Publications](https://urineri.github.io/publications/)
+
+## References
+For recommendations, please contact me directly.
+
