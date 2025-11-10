@@ -1,12 +1,78 @@
 [
   {
+    "name": "spacer_matching_bench",
+    "description": "",
+    "url": "https://github.com/UriNeri/spacer_matching_bench",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-11-04T20:54:50Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "CapiBex",
+    "description": "two friends' rust exercise playground",
+    "url": "https://github.com/UriNeri/CapiBex",
+    "language": "Rust",
+    "stars": 0,
+    "forks": 1,
+    "updated_at": "2025-08-26T00:26:51Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "bbmapy",
+    "description": "A Python wrapper for BBTools. Current version of bbmapy is v39.20.",
+    "url": "https://github.com/UriNeri/bbmapy",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-08-20T00:43:55Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "zsh-predict",
+    "description": "oh-my-zsh plugin using LLM to suggest/complete your current command.",
+    "url": "https://github.com/UriNeri/zsh-predict",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-06-27T17:35:12Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "urineri.github.io",
+    "description": "personal landing page",
+    "url": "https://github.com/UriNeri/urineri.github.io",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-06-24T17:48:08Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
     "name": "Gen2Mat",
-    "description": "Gene sharing matrix using cd-git",
+    "description": "Gene sharing matrix using cd-hit",
     "url": "https://github.com/UriNeri/Gen2Mat",
     "language": "Shell",
     "stars": 0,
     "forks": 0,
-    "updated_at": "2025-05-07T01:55:23Z",
+    "updated_at": "2025-06-20T22:02:11Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "what2do",
+    "description": "Locate all TODOs from a given directory",
+    "url": "https://github.com/UriNeri/what2do",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-06-13T00:31:58Z",
     "topics": [],
     "source": "github"
   },
@@ -18,17 +84,6 @@
     "stars": 0,
     "forks": 0,
     "updated_at": "2025-05-07T01:53:23Z",
-    "topics": [],
-    "source": "github"
-  },
-  {
-    "name": "bbmapy",
-    "description": "A Python wrapper for BBTools. Current version of bbmapy is v39.20.",
-    "url": "https://github.com/UriNeri/bbmapy",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "updated_at": "2025-05-07T01:53:00Z",
     "topics": [],
     "source": "github"
   },
@@ -51,28 +106,6 @@
     "stars": 0,
     "forks": 0,
     "updated_at": "2025-04-10T18:00:42Z",
-    "topics": [],
-    "source": "github"
-  },
-  {
-    "name": "misc",
-    "description": "",
-    "url": "https://github.com/UriNeri/misc",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "updated_at": "2025-04-02T22:05:25Z",
-    "topics": [],
-    "source": "github"
-  },
-  {
-    "name": "whattodo",
-    "description": "Locate all TODOs from a given directory",
-    "url": "https://github.com/UriNeri/whattodo",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "updated_at": "2025-04-02T01:22:38Z",
     "topics": [],
     "source": "github"
   },
@@ -121,13 +154,24 @@
     "source": "github"
   },
   {
+    "name": "gff2parquet",
+    "description": "Utility CLI for handling GFF files (incl. converting to parquet)",
+    "url": "https://github.com/UriNeri/gff2parquet",
+    "language": "Jupyter Notebook",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2025-11-09T10:06:35Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
     "name": "Main",
     "description": "RNA virus analysis toolkit, including a variety of commands and wrappers for external tools (from raw read processing to genome annotation).",
     "url": "https://code.jgi.doe.gov/rolypoly/rolypoly",
     "language": "Unknown",
     "stars": 1,
     "forks": 0,
-    "updated_at": "2025-05-07T00:50:57.670Z",
+    "updated_at": "2025-10-15T00:43:40.339Z",
     "topics": [],
     "source": "gitlab"
   },
@@ -138,7 +182,7 @@
     "language": "Unknown",
     "stars": 1,
     "forks": 0,
-    "updated_at": "2025-05-06T21:08:11.275Z",
+    "updated_at": "2025-10-02T20:39:00.610Z",
     "topics": [],
     "source": "gitlab"
   },
@@ -150,17 +194,6 @@
     "stars": 1,
     "forks": 0,
     "updated_at": "2024-02-13T18:46:05Z",
-    "topics": [],
-    "source": "github"
-  },
-  {
-    "name": "urineri.github.io",
-    "description": "",
-    "url": "https://github.com/UriNeri/urineri.github.io",
-    "language": "HTML",
-    "stars": 1,
-    "forks": 0,
-    "updated_at": "2022-10-17T12:53:21Z",
     "topics": [],
     "source": "github"
   },
@@ -180,9 +213,9 @@
     "description": "Code, scripts, some logs and general misc. from to the RNA viruses in MetaTranscriptome discovery project.",
     "url": "https://github.com/UriNeri/RVMT",
     "language": "R",
-    "stars": 10,
+    "stars": 11,
     "forks": 4,
-    "updated_at": "2025-04-03T17:18:13Z",
+    "updated_at": "2025-08-21T04:35:34Z",
     "topics": [],
     "source": "github"
   }

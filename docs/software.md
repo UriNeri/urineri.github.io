@@ -10,14 +10,80 @@
 <div id="repo-container">
 
 
-<div class="repo-card" data-stars="0" data-language="Shell" data-date="2025-05-07T01:55:23Z">
+<div class="repo-card" data-stars="0" data-language="Jupyter Notebook" data-date="2025-11-04T20:54:50Z">
+    <h3><a href="https://github.com/UriNeri/spacer_matching_bench">spacer_matching_bench</a></h3>
+    <div class="repo-meta">
+        <span>📓 Jupyter Notebook</span>
+        <span>⭐ 0</span>
+        <span>📅 2025-11-04</span>
+    </div>
+    <p>No description available.</p>
+</div>
+
+
+<div class="repo-card" data-stars="0" data-language="Rust" data-date="2025-08-26T00:26:51Z">
+    <h3><a href="https://github.com/UriNeri/CapiBex">CapiBex</a></h3>
+    <div class="repo-meta">
+        <span>🦀 Rust</span>
+        <span>⭐ 0</span>
+        <span>📅 2025-08-26</span>
+    </div>
+    <p>two friends' rust exercise playground</p>
+</div>
+
+
+<div class="repo-card" data-stars="0" data-language="Python" data-date="2025-08-20T00:43:55Z">
+    <h3><a href="https://github.com/UriNeri/bbmapy">bbmapy</a></h3>
+    <div class="repo-meta">
+        <span>🐍 Python</span>
+        <span>⭐ 0</span>
+        <span>📅 2025-08-20</span>
+    </div>
+    <p>A Python wrapper for BBTools. Current version of bbmapy is v39.20.</p>
+</div>
+
+
+<div class="repo-card" data-stars="0" data-language="Shell" data-date="2025-06-27T17:35:12Z">
+    <h3><a href="https://github.com/UriNeri/zsh-predict">zsh-predict</a></h3>
+    <div class="repo-meta">
+        <span>🐚 Shell</span>
+        <span>⭐ 0</span>
+        <span>📅 2025-06-27</span>
+    </div>
+    <p>oh-my-zsh plugin using LLM to suggest/complete your current command.</p>
+</div>
+
+
+<div class="repo-card" data-stars="0" data-language="HTML" data-date="2025-06-24T17:48:08Z">
+    <h3><a href="https://github.com/UriNeri/urineri.github.io">urineri.github.io</a></h3>
+    <div class="repo-meta">
+        <span>🌐 HTML</span>
+        <span>⭐ 0</span>
+        <span>📅 2025-06-24</span>
+    </div>
+    <p>personal landing page</p>
+</div>
+
+
+<div class="repo-card" data-stars="0" data-language="Shell" data-date="2025-06-20T22:02:11Z">
     <h3><a href="https://github.com/UriNeri/Gen2Mat">Gen2Mat</a></h3>
     <div class="repo-meta">
         <span>🐚 Shell</span>
         <span>⭐ 0</span>
-        <span>📅 2025-05-07</span>
+        <span>📅 2025-06-20</span>
     </div>
     <p>Gene sharing matrix using cd-hit</p>
+</div>
+
+
+<div class="repo-card" data-stars="0" data-language="Python" data-date="2025-06-13T00:31:58Z">
+    <h3><a href="https://github.com/UriNeri/what2do">what2do</a></h3>
+    <div class="repo-meta">
+        <span>🐍 Python</span>
+        <span>⭐ 0</span>
+        <span>📅 2025-06-13</span>
+    </div>
+    <p>Locate all TODOs from a given directory</p>
 </div>
 
 
@@ -29,17 +95,6 @@
         <span>📅 2025-05-07</span>
     </div>
     <p>"Refactoring" tool that moves Python imports into the functions where they are used.</p>
-</div>
-
-
-<div class="repo-card" data-stars="0" data-language="Python" data-date="2025-05-07T01:53:00Z">
-    <h3><a href="https://github.com/UriNeri/bbmapy">bbmapy</a></h3>
-    <div class="repo-meta">
-        <span>🐍 Python</span>
-        <span>⭐ 0</span>
-        <span>📅 2025-05-07</span>
-    </div>
-    <p>A Python wrapper for BBTools</p>
 </div>
 
 
@@ -65,28 +120,6 @@
 </div>
 
 
-<div class="repo-card" data-stars="0" data-language="Python" data-date="2025-04-02T22:05:25Z">
-    <h3><a href="https://github.com/UriNeri/misc">misc</a></h3>
-    <div class="repo-meta">
-        <span>🐍 Python</span>
-        <span>⭐ 0</span>
-        <span>📅 2025-04-02</span>
-    </div>
-    <p>Alias file and random scripts</p>
-</div>
-
-
-<div class="repo-card" data-stars="0" data-language="Python" data-date="2025-04-02T01:22:38Z">
-    <h3><a href="https://github.com/UriNeri/whattodo">whattodo</a></h3>
-    <div class="repo-meta">
-        <span>🐍 Python</span>
-        <span>⭐ 0</span>
-        <span>📅 2025-04-02</span>
-    </div>
-    <p>Locate all TODOs from a given directory</p>
-</div>
-
-
 <div class="repo-card" data-stars="0" data-language="Python" data-date="2025-03-23T22:06:52Z">
     <h3><a href="https://github.com/UriNeri/splitit">splitit</a></h3>
     <div class="repo-meta">
@@ -105,7 +138,7 @@
         <span>⭐ 0</span>
         <span>📅 2025-01-31</span>
     </div>
-    <p>Quick and dirty alternative to seff (slurm job efficiency)</p>
+    <p>quick and dirty alternative to seff (slurm job efficiency)</p>
 </div>
 
 
@@ -131,25 +164,36 @@
 </div>
 
 
-<div class="repo-card" data-stars="1" data-language="Python" data-date="2025-05-07T00:50:57.670Z">
-    <h3><a href="https://code.jgi.doe.gov/rolypoly/rolypoly">RolyPoly</a></h3>
+<div class="repo-card" data-stars="1" data-language="Jupyter Notebook" data-date="2025-11-09T10:06:35Z">
+    <h3><a href="https://github.com/UriNeri/gff2parquet">gff2parquet</a></h3>
     <div class="repo-meta">
-        <span>🐍 Python </span>
+        <span>📓 Jupyter Notebook</span>
         <span>⭐ 1</span>
-        <span>📅 2025-05-07</span>
+        <span>📅 2025-11-09</span>
+    </div>
+    <p>Utility CLI for handling GFF files (incl. converting to parquet)</p>
+</div>
+
+
+<div class="repo-card" data-stars="1" data-language="Unknown" data-date="2025-10-15T00:43:40.339Z">
+    <h3><a href="https://code.jgi.doe.gov/rolypoly/rolypoly">Main</a></h3>
+    <div class="repo-meta">
+        <span>📦 Unknown</span>
+        <span>⭐ 1</span>
+        <span>📅 2025-10-15</span>
     </div>
     <p>RNA virus analysis toolkit, including a variety of commands and wrappers for external tools (from raw read processing to genome annotation).</p>
 </div>
 
 
-<div class="repo-card" data-stars="1" data-language="Python" data-date="2025-05-06T21:08:11.275Z">
+<div class="repo-card" data-stars="1" data-language="Unknown" data-date="2025-10-02T20:39:00.610Z">
     <h3><a href="https://code.jgi.doe.gov/spacersdb/spacer_matching_bench">Spacer Matching Bench</a></h3>
     <div class="repo-meta">
-        <span>🐍 Python, 🦀 Rust</span>
+        <span>📦 Unknown</span>
         <span>⭐ 1</span>
-        <span>📅 2025-05-06</span>
+        <span>📅 2025-10-02</span>
     </div>
-    <p>A tool to benchmark spacer matching tools.</p>
+    <p>No description available.</p>
 </div>
 
 
@@ -164,17 +208,6 @@
 </div>
 
 
-<div class="repo-card" data-stars="1" data-language="HTML" data-date="2022-10-17T12:53:21Z">
-    <h3><a href="https://github.com/UriNeri/urineri.github.io">urineri.github.io</a></h3>
-    <div class="repo-meta">
-        <span>🌐 HTML</span>
-        <span>⭐ 1</span>
-        <span>📅 2022-10-17</span>
-    </div>
-    <p>My personal website</p>
-</div>
-
-
 <div class="repo-card" data-stars="2" data-language="Jupyter Notebook" data-date="2025-01-21T20:48:40Z">
     <h3><a href="https://github.com/UriNeri/ColabScan">ColabScan</a></h3>
     <div class="repo-meta">
@@ -186,12 +219,12 @@
 </div>
 
 
-<div class="repo-card" data-stars="10" data-language="R" data-date="2025-04-03T17:18:13Z">
+<div class="repo-card" data-stars="11" data-language="R" data-date="2025-08-21T04:35:34Z">
     <h3><a href="https://github.com/UriNeri/RVMT">RVMT</a></h3>
     <div class="repo-meta">
         <span>📊 R</span>
-        <span>⭐ 10</span>
-        <span>📅 2025-04-03</span>
+        <span>⭐ 11</span>
+        <span>📅 2025-08-21</span>
     </div>
     <p>Code, scripts, some logs and general misc. from to the RNA viruses in MetaTranscriptome discovery project.</p>
 </div>
