@@ -33,7 +33,8 @@
 - **2013 – 2017**: B.Sc., Tel Aviv University – Biology
 
 ## Employment
-- **2025 - present**: Postdoctoral Researcher, Viral Genomics Group, Department of Energy Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
+- **2026 - present**: Postdoctoral Researcher, Kranzler Lab, Bar-Ilan University, Ramat Gan, Israel
+- **2025 – 2026**: Postdoctoral Researcher, Viral Genomics Group, Department of Energy Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
 - **2024**: Associate Data Scientist, Viral Genomics Group, Department of Energy Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
 - **2017 – 2018**: Research Assistant, Prof. Uri Gophna's lab
 - **2013 – 2015**: Research Assistant, Prof. Ehud Gazit's research group

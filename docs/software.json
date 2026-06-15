@@ -1,14 +1,47 @@
 [
   {
-    "name": "spacer_matching_bench",
-    "description": "",
-    "url": "https://github.com/UriNeri/spacer_matching_bench",
-    "language": "Jupyter Notebook",
+    "name": "urineri.github.io",
+    "description": "personal landing page",
+    "url": "https://github.com/UriNeri/urineri.github.io",
+    "language": "HTML",
     "stars": 0,
     "forks": 0,
-    "updated_at": "2025-11-04T20:54:50Z",
+    "updated_at": "2026-06-15T06:19:58Z",
     "topics": [],
     "source": "github"
+  },
+  {
+    "name": "biofaster",
+    "description": "How fast can you read fastq/gz/bgz?",
+    "url": "https://github.com/UriNeri/biofaster",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-02-26T19:35:22Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "Main",
+    "description": "RNA virus analysis toolkit, including a variety of commands and wrappers for external tools (from raw read processing to genome annotation).",
+    "url": "https://code.jgi.doe.gov/rolypoly/rolypoly",
+    "language": "Unknown",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-02-24T22:26:50.902Z",
+    "topics": [],
+    "source": "gitlab"
+  },
+  {
+    "name": "Spacer Matching Bench",
+    "description": "",
+    "url": "https://code.jgi.doe.gov/spacersdb/spacer_matching_bench",
+    "language": "Unknown",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2025-10-02T20:39:00.610Z",
+    "topics": [],
+    "source": "gitlab"
   },
   {
     "name": "CapiBex",
@@ -22,17 +55,6 @@
     "source": "github"
   },
   {
-    "name": "bbmapy",
-    "description": "A Python wrapper for BBTools. Current version of bbmapy is v39.20.",
-    "url": "https://github.com/UriNeri/bbmapy",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "updated_at": "2025-08-20T00:43:55Z",
-    "topics": [],
-    "source": "github"
-  },
-  {
     "name": "zsh-predict",
     "description": "oh-my-zsh plugin using LLM to suggest/complete your current command.",
     "url": "https://github.com/UriNeri/zsh-predict",
@@ -40,17 +62,6 @@
     "stars": 0,
     "forks": 0,
     "updated_at": "2025-06-27T17:35:12Z",
-    "topics": [],
-    "source": "github"
-  },
-  {
-    "name": "urineri.github.io",
-    "description": "personal landing page",
-    "url": "https://github.com/UriNeri/urineri.github.io",
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "updated_at": "2025-06-24T17:48:08Z",
     "topics": [],
     "source": "github"
   },
@@ -84,17 +95,6 @@
     "stars": 0,
     "forks": 0,
     "updated_at": "2025-05-07T01:53:23Z",
-    "topics": [],
-    "source": "github"
-  },
-  {
-    "name": "doi2bib",
-    "description": "vibe coded chrome extension ",
-    "url": "https://github.com/UriNeri/doi2bib",
-    "language": "JavaScript",
-    "stars": 0,
-    "forks": 0,
-    "updated_at": "2025-04-30T18:13:57Z",
     "topics": [],
     "source": "github"
   },
@@ -154,37 +154,48 @@
     "source": "github"
   },
   {
-    "name": "gff2parquet",
-    "description": "Utility CLI for handling GFF files (incl. converting to parquet)",
-    "url": "https://github.com/UriNeri/gff2parquet",
-    "language": "Jupyter Notebook",
+    "name": "bbmapy",
+    "description": "A Python wrapper for BBTools. For the actual bbmap repo, see https://github.com/bbushnell/BBTools",
+    "url": "https://github.com/UriNeri/bbmapy",
+    "language": "Python",
     "stars": 1,
     "forks": 0,
-    "updated_at": "2025-11-09T10:06:35Z",
+    "updated_at": "2026-06-03T09:41:54Z",
     "topics": [],
     "source": "github"
   },
   {
-    "name": "Main",
-    "description": "RNA virus analysis toolkit, including a variety of commands and wrappers for external tools (from raw read processing to genome annotation).",
-    "url": "https://code.jgi.doe.gov/rolypoly/rolypoly",
-    "language": "Unknown",
+    "name": "spacer_matching_bench",
+    "description": "",
+    "url": "https://github.com/UriNeri/spacer_matching_bench",
+    "language": "Jupyter Notebook",
     "stars": 1,
-    "forks": 0,
-    "updated_at": "2025-10-15T00:43:40.339Z",
+    "forks": 1,
+    "updated_at": "2026-02-25T17:12:13Z",
     "topics": [],
-    "source": "gitlab"
+    "source": "github"
   },
   {
-    "name": "Spacer Matching Bench",
-    "description": "",
-    "url": "https://code.jgi.doe.gov/spacersdb/spacer_matching_bench",
-    "language": "Unknown",
+    "name": "doi2bib",
+    "description": "vibe coded chrome extension ",
+    "url": "https://github.com/UriNeri/doi2bib",
+    "language": "JavaScript",
     "stars": 1,
     "forks": 0,
-    "updated_at": "2025-10-02T20:39:00.610Z",
+    "updated_at": "2026-02-09T11:15:01Z",
     "topics": [],
-    "source": "gitlab"
+    "source": "github"
+  },
+  {
+    "name": "pyraseq",
+    "description": "paraseq entry for biofaster, with an attempted python example",
+    "url": "https://github.com/UriNeri/pyraseq",
+    "language": "Python",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-01-28T17:07:30Z",
+    "topics": [],
+    "source": "github"
   },
   {
     "name": "LSV",
@@ -194,6 +205,17 @@
     "stars": 1,
     "forks": 0,
     "updated_at": "2024-02-13T18:46:05Z",
+    "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "polars-dovmed",
+    "description": "polars powered text search and extraction from NCBI's PubMed Central Open Access subset converted to parquet",
+    "url": "https://github.com/UriNeri/polars-dovmed",
+    "language": "Python",
+    "stars": 2,
+    "forks": 0,
+    "updated_at": "2026-05-01T13:36:59Z",
     "topics": [],
     "source": "github"
   },
@@ -209,14 +231,45 @@
     "source": "github"
   },
   {
+    "name": "gff2parquet",
+    "description": "Utility CLI for handling GFF files (incl. converting to parquet)",
+    "url": "https://github.com/UriNeri/gff2parquet",
+    "language": "Jupyter Notebook",
+    "stars": 4,
+    "forks": 0,
+    "updated_at": "2026-05-01T19:46:20Z",
+    "topics": [
+      "bioinfo",
+      "cli",
+      "gff3",
+      "parquet"
+    ],
+    "source": "github"
+  },
+  {
     "name": "RVMT",
     "description": "Code, scripts, some logs and general misc. from to the RNA viruses in MetaTranscriptome discovery project.",
     "url": "https://github.com/UriNeri/RVMT",
     "language": "R",
-    "stars": 11,
+    "stars": 12,
     "forks": 4,
-    "updated_at": "2025-08-21T04:35:34Z",
+    "updated_at": "2026-01-28T11:20:20Z",
     "topics": [],
+    "source": "github"
+  },
+  {
+    "name": "rolypoly",
+    "description": "RNA virus analysis toolkit",
+    "url": "https://github.com/UriNeri/rolypoly",
+    "language": "Jupyter Notebook",
+    "stars": 19,
+    "forks": 2,
+    "updated_at": "2026-06-14T13:24:39Z",
+    "topics": [
+      "rna-virus",
+      "virus-annotation",
+      "virus-discovery"
+    ],
     "source": "github"
   }
 ]

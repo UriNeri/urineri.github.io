@@ -2,13 +2,18 @@
 <div class="profile-header" markdown>
 ![Profile Photo](assets/profile.jpg){ align=left width="350"  }
 
+
+!!! note "June 2026 Update"
+    I have recently started a new postdoctoral position at Bar-Ilan University, in [Chana Kranzler's lab](https://www.kranzlerlab.com/). The Kranzler lab researches viral ecology, combining both field and model microbes approaches. This means natural phenomena can be investigated and manipulated in the lab - and we hope to explore exciting in-silico "omics" predictions in this way.   
+
+  
 ## About
 I am a "wet lab turned computational biologist" studying microbial parasites (mostly RNA viruses, but interested in microeukaryotic parasites (and their viruses too)).
-Recently (2025) started a postdoc research position at the Joint Genome Institute, as part of Simon Roux's Viral Genomics Group.  
+Previously (2024–2026) I was a postdoctoral researcher at the Joint Genome Institute (LBNL), as part of Simon Roux's Viral Genomics Group.  
 My main project is [RolyPoly](https://code.jgi.doe.gov/rolypoly/rolypoly), a swiss-army knife toolkit for RNA virus discovery and characterization.  
  It has 2 main goals:   
 <b>-</b> Make life easier for non-computational researchers who want to dive into their data.  
-<b>-</b> Help developers of virus analysis pipeline "plug" holes missing from their framework, by using specific RolyPoly commands to easily add features to their existing code base (regardless of type - next-flow, snakmake, CLI or as directly importing functions other pipeline), like library detection and subsampling, read-filtering, genome annotation(functional and identifying RNA strucutres) or stacking results from different tools. It is an open (still in progress) project, but I hope to open it up soon.  
+<b>-</b> Help developers of virus analysis pipeline "plug" holes missing from their framework, by using specific RolyPoly commands to easily add features to their existing code base (regardless of type - next-flow, snakmake, CLI or as directly importing functions other pipeline), like library detection and subsampling, read-filtering, genome annotation(functional and identifying RNA strucutres) or stacking results from different tools. It is an open (still in progress) project, and collaborations are very welcome!  
 In between wrangling viral genomes and benchmarking other people's tools, I have a habit of writing misc quality-of-life [scripts](software.md) that solve very specific problems exactly once.  I also suffer from over-engineering and premature optimision of tasks ("how fast can we make this gff/fasta parser?..." and "what if we used a modern format?").
 
 
